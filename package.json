@@ -1,52 +1,15 @@
+  
 {
   "name": "the-best-note-taker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "dependencies": {
-    "ansi-styles": "^4.3.0",
-    "atob": "^2.1.2",
-    "aws-sign2": "^0.7.0",
-    "aws4": "^1.11.0",
-    "babel-preset-current-node-syntax": "^1.0.1",
-    "balanced-match": "^1.0.0",
-    "brace-expansion": "^1.1.11",
-    "browser-process-hrtime": "^1.0.0",
-    "buffer-from": "^1.1.1",
-    "callsites": "^3.1.0",
-    "camelcase": "^5.3.1",
-    "caniuse-lite": "^1.0.30001192",
-    "caseless": "^0.12.0",
-    "char-regex": "^1.0.2",
-    "ci-info": "^2.0.0",
-    "cjs-module-lexer": "^0.6.0",
-    "co": "^4.6.0",
-    "collect-v8-coverage": "^1.0.1",
-    "color-convert": "^2.0.1",
-    "color-name": "^1.1.4",
-    "colorette": "^1.2.2",
-    "component-emitter": "^1.3.0",
-    "concat-map": "^0.0.1",
-    "copy-descriptor": "^0.1.1",
-    "core-util-is": "^1.0.2",
-    "cssom": "^0.4.4",
-    "express": "^4.17.1",
-    "uid": "^2.0.0"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jtaustin19/the-best-note-taker.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Jtaustin19/the-best-note-taker/issues"
-  },
-  "homepage": "https://github.com/Jtaustin19/the-best-note-taker#readme"
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
